@@ -1,7 +1,7 @@
-apiversion:v1
- kind: Namespace /* resource name */
+apiversion: v1
+ kind: Namespace #resource name 
 metadata:
-  name:roboshop
+  name: roboshop
   labels:
-    environments:deployment
-    project:roboshop
+    environments: deployment
+    project: roboshop
