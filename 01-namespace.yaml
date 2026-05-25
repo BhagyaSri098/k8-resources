@@ -1,5 +1,5 @@
 apiversion:v1
-kind: Namespace
+ kind: Namespace /* resource name */
 metadata:
   name:roboshop
   labels:
